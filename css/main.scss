@@ -83,6 +83,7 @@ form {
     opacity: 0.7;
     font-size: 1rem;
     transition: color 200ms;
+    background: var(--clr-primary);
 }
 
 .btn.delete:hover {

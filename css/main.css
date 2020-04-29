@@ -85,6 +85,7 @@ form {
   font-size: 1rem;
   -webkit-transition: color 200ms;
   transition: color 200ms;
+  background: var(--clr-primary);
 }
 
 .btn.delete:hover {
